@@ -2,7 +2,7 @@
     <a href="https://christmas-1-fv.netlify.app" target="_blank">
       <img src="design/preview.webp" alt="Project Banner">
     </a>
-  <h3 align="center">Christmas Day (Parallax)</h3>
+  <h3 align="center">Christmas Day</h3>
 </div>
 
 ## <br /> 📋 <a name="table">Table of Contents</a>
